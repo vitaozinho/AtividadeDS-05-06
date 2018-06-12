@@ -1,0 +1,32 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\bin\Debug\Atividades.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\bin\Debug\Atividades.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.Exercicio1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.Exercicio2.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.Exercicio3.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.Exercicio4.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.Exercicio5.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.Exercicio6.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Atividades\obj\x86\Debug\Atividades.Exercicio7.resources
+C:\Users\Aluno\Desktop\Atividades\Atividades\obj\x86\Debug\Atividades.exe
+C:\Users\Aluno\Desktop\Atividades\Atividades\obj\x86\Debug\Atividades.pdb
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.exe
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.pdb
+C:\Users\Vitão\Downloads\Atividades\Atividades\bin\Debug\Atividades.exe
+C:\Users\Vitão\Downloads\Atividades\Atividades\bin\Debug\Atividades.pdb
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.Exercicio1.resources
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.Exercicio2.resources
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.Exercicio3.resources
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.Exercicio4.resources
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.Exercicio5.resources
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.Exercicio6.resources
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.Exercicio7.resources
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.Form1.resources
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.Properties.Resources.resources
+C:\Users\Vitão\Downloads\Atividades\Atividades\obj\x86\Debug\Atividades.csproj.GenerateResource.Cache
+C:\Users\Vitão\Desktop\Git\Atividades\Atividades\obj\x86\Debug\Atividades.exe
+C:\Users\Vitão\Desktop\Git\Atividades\Atividades\obj\x86\Debug\Atividades.pdb
